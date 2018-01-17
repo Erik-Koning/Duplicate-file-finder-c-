@@ -1,0 +1,3 @@
+Finds your duplicates files.
+//Compile: 			gcc <name of this file>.cpp -o <nameOfThisFile>.exe
+//Run: 				<nameOfThisFile> parent_dir(full path) filename(full path)...
